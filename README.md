@@ -3,7 +3,13 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairohit17&layout=compact&theme=discord_old_blurple" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rairohit17&layout=compact&theme=discord_old_blurple" style="margin-right: 20px;" />
+</div>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rairohit17&show_icons=true&theme=tokyonight" />
+</div>
 <br>
 <br>
 
